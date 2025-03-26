@@ -1,0 +1,9 @@
+{
+    "id": "lowerbrightness",
+    "name": "Lower Brightness",
+    "description": "Adds a transparent black overlay to reduce the minimum brightness",
+    "author": "boredsquirrel",
+    "version": "1.0",
+    "license": "MIT",
+    "category": "Appearance"
+}
